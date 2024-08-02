@@ -10,7 +10,7 @@
 <p>
     Diversos projetos em Python
 <p>
-    Mais projeto urna eletronica completo com menu 
+    Mais projeto urna eletronica completo com menu (em revisao melhorias)
 </h1>
 <body>
     
