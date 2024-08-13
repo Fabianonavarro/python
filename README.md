@@ -1,28 +1,20 @@
-Projetos em Python
+🌟 Projetos em Python 🌟
 
-Este repositório contém diversos projetos desenvolvidos em Python, cobrindo uma variedade de aplicações, desde análise de dados e gráficos até jogos e sistemas complexos como uma urna eletrônica.
+Bem-vindo ao repositório de Projetos em Python! Aqui você encontrará uma coleção de scripts e aplicativos desenvolvidos em Python, que abrangem uma ampla gama de funcionalidades, desde análise de dados e gráficos até jogos e sistemas complexos como uma urna eletrônica.
 
-Projetos
+📍 Projetos
+📬 Busca de CEP
+BuscaCep.py: Um script para buscar informações de um CEP utilizando uma API.
+Busca_Cep_Grafico.py: Uma versão gráfica do script de busca de CEP, com uma interface interativa.
 
-Busca de CEP
+⛽ Tipos de Combustível
+Tipocombustivel.py: Script que determina economia de combustível com base em informações fornecidas.
+Tipocombustivel_Grafico.py: Versão gráfica do script de tipos de combustível, exibindo resultados em uma interface visual.
 
-•	BuscaCep.py: Um script que realiza a busca de informações de um CEP utilizando uma API.
+🎮 Jogo
+jogo.py: Um jogo simples desenvolvido em Python, ideal para praticar lógica de programação.
 
-•	Busca_Cep_Grafico.py: Uma versão gráfica do script de busca de CEP, com uma interface para consulta interativa.
+jogoNum_Grafico.py: Versão gráfica do jogo, com uma interface visual para uma melhor interação com o usuário.
 
-Tipos de Combustível
-
-•	Tipocombustivel.py: Script para determinar o tipo de combustível baseado em informações fornecidas.
-
-•	Tipocombustivel_Grafico.py: Versão gráfica do script de tipos de combustível, apresentando resultados em uma interface gráfica.
-
-Jogo
-
-•	jogo.py: Um jogo simples desenvolvido em Python.
-
-•	jogoNum_Grafico.py: Versão gráfica do jogo, com uma interface visual para interação.
-
-Urna Eletrônica
-
-•	urna_eletronica.py: Projeto de urna eletrônica com menu para votação e apuração. Este projeto está em revisão para melhorias contínuas e aprimoramento de funcionalidades.
-
+🗳️ Urna Eletrônica
+urna_eletronica.py: Sistema de urna eletrônica com um menu para votação e apuração. Este projeto está em revisão para melhorias contínuas e aprimoramento de funcionalidades.
